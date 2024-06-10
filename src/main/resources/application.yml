@@ -1,9 +1,9 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://hassanbrgserver.mysql.database.azure.com:3306/defaultdb?createDatabaseIfNotExist=true&autoReconnect=true&showSSL=false
-    username: hassanbrgserver
-    password: ynov2024/
+    url: jdbc:mysql://webappbddprodthomas.mysql.database.azure.com:3306/defaultdb?createDatabaseIfNotExist=true&autoReconnect=true&showSSL=false
+    username: thomas
+    password: Ilabrait10
   jpa:
     properties:
       hibernate:
